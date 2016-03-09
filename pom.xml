@@ -317,6 +317,7 @@
     <module>tomcat7-maven-plugin</module>
     <module>tomcat7-war-runner</module>
     <module>tomcat-maven-archetype</module>
+    <module>ace-maven-plugin</module>
   </modules>
 
   <dependencyManagement>
