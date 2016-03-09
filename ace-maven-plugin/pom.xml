@@ -233,18 +233,14 @@
       <version>1.4.24</version>
     </dependency>
     <dependency>
-      <groupId>com.alibaba.appengine</groupId>
+      <groupId>com.aliyun.ace</groupId>
       <artifactId>ace4j-log</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-      <!--<scope>system</scope>-->
-      <!--<systemPath>${pom.basedir}/acelib/ace4j-log-0.0.1-SNAPSHOT.jar</systemPath>-->
     </dependency>
     <dependency>
-      <groupId>com.alibaba.appengine</groupId>
+      <groupId>com.aliyun.ace</groupId>
       <artifactId>ace4j-sdk-api</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-      <!--<scope>system</scope>-->
-      <!--<systemPath>${pom.basedir}/acelib/ace4j-sdk-api-0.0.1-SNAPSHOT.jar</systemPath>-->
     </dependency>
     <dependency>
       <groupId>log4j</groupId>
